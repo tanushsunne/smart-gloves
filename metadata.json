@@ -1,0 +1,8 @@
+{
+  "name": "GloveStream Pro - Smart Gesture Demo",
+  "description": "A futuristic dashboard for a smart gesture control glove, featuring AI-powered gesture analysis, real-time sensor visualization, and voice-assisted control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
