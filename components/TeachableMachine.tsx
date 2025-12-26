@@ -8,7 +8,9 @@ declare global {
   }
 }
 
-const MODEL_URL = "https://teachablemachine.withgoogle.com/models/uqIVzV7xH/";
+const MODEL_URL = "https://teachablemachine.withgoogle.com/models/JAvUemqiz/";
+
+//const MODEL_URL = "https://teachablemachine.withgoogle.com/models/uqIVzV7xH/";
 
 
 
